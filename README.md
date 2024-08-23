@@ -26,6 +26,7 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
 - ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
 - ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
